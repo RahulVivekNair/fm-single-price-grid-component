@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tailwindcss build -i ./src/tailwind.css -o ./public/style.css --watch",
+    "dev": "tailwindcss build -i ./src/tailwind.css -o ./style.css --watch",
     "build": "NODE_ENV=production pnpm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
