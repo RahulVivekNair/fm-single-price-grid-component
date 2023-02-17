@@ -7,7 +7,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Live Site URL: https://rahulviveknair.github.io/fm-nft-preview-card/
+- Live Site URL: https://rahulviveknair.github.io/fm-single-price-grid-component/
 
 ### Built with
 
